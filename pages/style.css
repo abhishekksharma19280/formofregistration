@@ -1,0 +1,48 @@
+body {
+    background: url('C:\Users\asus\Desktop\COPY\Bharat-intern-Registration-form-\Pages\Background-Registration-Form.png') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: relative;
+}
+.card {
+    text-align: center;
+    padding: 10px; 
+    background-color: rgba(255, 255, 255, 0.2); 
+    border-radius: 20px; 
+    border: none; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    width: 600px; 
+}
+
+.card h2, .card p {
+    color: #ffffff; 
+    font-size: 30px; 
+}
+
+.form-label {
+     font-size: 20px; 
+}
+
+.form-control {
+    font-size: 18px; 
+}
+
+.btn-primary {
+    background-color: #03365d;
+    border-color: #460246;
+    color: #faf6f6;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.btn-primary:hover {
+    background-color: #03365d;
+    border-color: #460246;
+    color: #faf6f6;
+}
